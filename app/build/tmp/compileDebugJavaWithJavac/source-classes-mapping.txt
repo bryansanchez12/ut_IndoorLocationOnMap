@@ -1,0 +1,16 @@
+com/example/indoormap/databinding/ActivityMapsBinding.java
+ com.example.indoormap.databinding.ActivityMapsBinding
+com/example/indoormap/BuildConfig.java
+ com.example.indoormap.BuildConfig
+com/example/indoormap/StartPage.java
+ com.example.indoormap.StartPage
+ com.example.indoormap.StartPage$1
+ com.example.indoormap.StartPage$2
+ com.example.indoormap.StartPage$3
+ com.example.indoormap.StartPage$4
+com/example/indoormap/databinding/ActivityStartPageBinding.java
+ com.example.indoormap.databinding.ActivityStartPageBinding
+com/example/indoormap/MapsActivity.java
+ com.example.indoormap.MapsActivity
+ com.example.indoormap.MapsActivity$1
+ com.example.indoormap.MapsActivity$2
