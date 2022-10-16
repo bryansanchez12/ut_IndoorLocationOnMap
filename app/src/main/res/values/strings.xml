@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IndoorMap</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="please_wait">Please wait ...</string>
+</resources>
